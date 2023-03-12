@@ -1,6 +1,6 @@
 ## Developed by
 
-![Near Ukrainians Guild cover](images/validator.png)
+![Near Ukrainians Guild cover][cover]
 
 **Near Ukrainians Guild** is a fast-growing guild aimed at providing high-quality educational content and assistance to grow a strong community of Ukrainian developers/entrepreneurs in the Near Protocol ecosystem
 
@@ -10,6 +10,8 @@
 [![Telegram Channel][telegram-channel]][telegram-channel-url]
 [![Medium][medium]][medium-url]
 [![Github][github]][github-url]
+
+[cover]: https://github.com/nearuaguild/near-validator-bot/blob/main/images/validator.png
 
 <!-- Socials -->
 
