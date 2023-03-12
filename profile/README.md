@@ -1,6 +1,6 @@
 ## Developed by
 
-![Near Ukrainians Guild cover](./images/validator.png)
+![Near Ukrainians Guild cover](../images/validator.png)
 
 **Near Ukrainians Guild** is a fast-growing guild aimed at providing high-quality educational content and assistance to grow a strong community of Ukrainian developers/entrepreneurs in the Near Protocol ecosystem
 
