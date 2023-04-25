@@ -1,8 +1,20 @@
-## Developed by
+![Guild cover][cover]
 
-![Near Ukrainians Guild cover][cover]
+**Near Ukraine Guild** is a fast-growing guild based in Ukraine, aimed at providing high-quality educational content and assistance to grow a strong community of developers/entrepreneurs/enthusiasts within the Near Protocol ecosystem
 
-**Near Ukrainians Guild** is a fast-growing guild aimed at providing high-quality educational content and assistance to grow a strong community of Ukrainian developers/entrepreneurs in the Near Protocol ecosystem
+## Community Validator Node
+
+![Community Validator cover][validator]
+
+Our validator has been active for a few months now, and the funds it generates are being put towards sponsoring community activities
+
+Join us now to stake and earn 10% APY
+
+**Click below to get started 👇**
+
+[![Stake][stake]][stake-url]
+
+## Socials
 
 [![Twitter][twitter]][twitter-url]
 [![Youtube][youtube]][youtube-url]
@@ -11,7 +23,10 @@
 [![Medium][medium]][medium-url]
 [![Github][github]][github-url]
 
-[cover]: https://github.com/nearuaguild/near-validator-bot/blob/main/images/validator.png
+<!-- Images -->
+
+[cover]: ./images/cover.png
+[validator]: ./images/validator.png
 
 <!-- Socials -->
 
@@ -27,3 +42,8 @@
 [telegram-chat-url]: https://t.me/nearprotocolua
 [telegram-channel-url]: https://t.me/nearprotocoluachannel
 [github-url]: https://github.com/nearuaguild
+
+<!-- CTA -->
+
+[stake]: https://img.shields.io/badge/stake-yellow?style=for-the-badge
+[stake-url]: https://bit.ly/43GSKhs
