@@ -25,8 +25,8 @@ Join us now to stake and earn 10% APY
 
 <!-- Images -->
 
-[cover]: ./images/cover.png
-[validator]: ./images/validator.png
+[cover]: https://github.com/nearuaguild/.github/blob/main/images/cover.png
+[validator]: https://github.com/nearuaguild/.github/blob/main/images/validator.png
 
 <!-- Socials -->
 
