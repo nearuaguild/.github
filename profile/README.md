@@ -12,7 +12,9 @@ Join us now to stake and earn 10% APY
 
 **Click below to get started 👇**
 
-[![Stake][stake]][stake-url]
+<a href="https://bit.ly/43GSKhs" target="_blank">
+<img src="https://img.shields.io/badge/stake-red?style=for-the-badge"  height="48" />
+</a>
 
 ## Socials
 
